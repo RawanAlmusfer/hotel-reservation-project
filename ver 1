@@ -1,0 +1,71 @@
+import java.util.*;
+public class Reservation
+{
+   public static Scanner read= new Scanner(System.in);
+   public hotel_Reservations[];
+   public final int MAX_SIZE= 100;
+   public static void main(String[] args)
+   {
+      String userType="", inOutDate="", resStatus="", roomType="", reservationNum="";
+      int card= 0, checkInDate=0, checkOutDate= 0;
+      
+      
+   } // main end
+   
+   
+   public static void logIn(String typeOfUser){
+   } // logIn end
+   
+   
+   public static boolean AddReservations(){
+   } // AddResevations end
+   
+   
+   public static boolean CancelMyReservation(){
+   } // CancelMyReservation end
+   
+   
+   public static void DisplayMyReservation(){
+   } // DisplayMyReservation end
+   
+   
+   public static boolean Find(String resNumber){
+   } // Find end
+   
+   
+   public static void Display(){
+   } // Display end
+   
+   
+   public static boolean Modify(String resNumber){
+   } // Modify end
+   
+   
+   public static boolean cancel(String resNumber){
+   } // Cancel end
+   
+   
+   public static void CountReservation(String status){
+   } // CountReservation end
+   
+   
+   public static void DisplayDueReservation(){
+   } // DisplayDueReservation end
+   
+   
+} // Hotel End 
+
+
+/* -----------------------------------------------
+ ------------------------------------------------- */ 
+ 
+ 
+ 
+ class Reservation{
+   private int checkInDate=0, checkOutDate-0 , stayLength= 0, card= 0;
+   char roomType= ' ';
+   private String resStatue="", resNum= "";
+   private double price=0;
+  } // end Reservation
+   
+      
